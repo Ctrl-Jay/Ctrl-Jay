@@ -3,7 +3,7 @@ Hi there, I'm @Ctrl-Jay 👋
 Aspiring Data Scientist | Python Enthusiast | Lifelong Learner
 
 🌱 About Me:
-I am a passionate data science student with a strong interest in data-driven product management, machine learning, and big data. Currently, my focus is on honing my Python skills using Jupyter notebooks to analyze, manipulate, and visualize data. I am eager to explore the endless possibilities that data science offers and its potential to drive impactful decisions.
+I am a passionate data science student with a strong interest in data-driven product management, machine learning, and big data. Currently, my focus is on honing my Python skills using VScode, Jupyter notebooks and Spyderto analyze, manipulate, and visualize data. I am eager to explore the endless possibilities that data science offers and its potential to drive impactful decisions.
 
 💼 What I'm Working On:
 I am currently diving deep into data mining, data manipulation, and data visualization techniques. I believe that understanding these core concepts is vital for any data-driven professional. My goal is to not only expand my knowledge but also gain hands-on experience by collaborating on exciting projects.
