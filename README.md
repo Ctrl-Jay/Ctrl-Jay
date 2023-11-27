@@ -12,7 +12,7 @@ I am currently diving deep into data mining, data manipulation, and data visuali
 I am open to collaborating on projects related to data science, machine learning, and data visualization. If you have an interesting project or idea, feel free to reach out to me. I am always looking to learn and contribute to meaningful endeavors.
 
 📫 Contact Me:
-You can reach me at vincent.jidechukwu@gmail.com. Let's connect and explore the world of data science together!
+You can reach me at ctrl_jay@outlook.com. Let's connect and explore the world of data science together!
 
 <!---
 Ctrl-Jay/Ctrl-Jay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
